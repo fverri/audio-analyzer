@@ -1,7 +1,7 @@
 let sound, fft;
 
 function preload() {
-  sound = loadSound("input.wav");
+  sound = loadSound("media/input.wav");
 }
 
 function setup() {
